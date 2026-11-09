@@ -1,0 +1,7 @@
+[user]
+	name = kwonsungae
+	email = kwonsungae88@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
